@@ -72,5 +72,6 @@ export default {
 	],
 	watch: {
 		clearScreen: false
-	}
+	},
+	base: 'https://stefanozuca.github.io/Portfolio/'
 };
